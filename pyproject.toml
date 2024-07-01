@@ -33,7 +33,7 @@ select = ['I', 'F', 'E', 'W', 'PL', 'PT']
 
 [tool.ruff.format]
 preview=true
-quote-style = "double"
+quote-style = "single"
 
 
 [tool.pytest.ini_options]
