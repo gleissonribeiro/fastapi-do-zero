@@ -11,3 +11,9 @@
 #### Aula 02 - [Fundamentos do desenvolvimento web](https://www.youtube.com/watch?v=2zCrXGc4QME&list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP&index=3)
 
 #### Aula 03 - [Criando rotas CRUD](https://www.youtube.com/watch?v=WnhDgVLYfx0&list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP&index=4)
+
+#### Aula 03 - [Banco de dados com SQLalchemy e migrações com Alembic](https://www.youtube.com/watch?v=_87z5b4szW4&list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP&index=10)
+
+DATABASE_URL="sqlite:///database.db"
+USER_NAME="admin"
+PASSWORD="123"
